@@ -16,7 +16,6 @@ pub mod dist;
 pub mod hnswio;
 pub mod prelude;
 pub mod api;
-pub mod libext;
 pub mod flatten;
 pub mod filter;
 pub mod datamap;
